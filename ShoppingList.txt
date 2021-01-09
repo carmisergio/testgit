@@ -6,3 +6,6 @@ Pears
 Tomatoes
 Chesnuts
 Cereal
+Cherries
+Bluberries
+Watermelons
